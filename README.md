@@ -19,7 +19,7 @@ Gerçek zamanlı hava durumu bilgilerini OpenWeatherMap API'si kullanarak göste
 
 ## 🌐 Canlı Demo
 
-[live-weather-app'i görüntüle](https://KULLANICI_ADIN.github.io/weather-app)
+[live-weather-app'i görüntüle](https://osmanbugraofluoglu.github.io/live-weather-app)
 
 ## ⚙️ Kurulum
 
